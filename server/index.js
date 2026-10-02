@@ -29,6 +29,7 @@ connectDB();
 const whitelist = [
   'http://localhost:5173',
   'https://ai-career-assistant-v2.web.app',
+  'https://arohan-ai.vercel.app',
   'https://ai-career-assistant-v2.firebaseapp.com/',
 ];
 
